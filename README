@@ -1,4 +1,2 @@
 This is a simple python script which calculates and displays congugated vectors along with base vectors. You can drag base vectors with your mouse and see correspondingly calculated congugated vectors. Hopefully it will help you to build a little intuition about them.
 Required library: Turtle
-
-End  
